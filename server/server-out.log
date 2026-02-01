@@ -1,0 +1,5 @@
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+MONGODB_URL: mongodb+srv://sust-connect:sustconnect123@cluster0.ngbsvuu.mongodb.net/sust_connect
+Database connected
+✅ SUST Connect Server is running on http://localhost:4000
+📡 Socket.io ready for real-time communication
